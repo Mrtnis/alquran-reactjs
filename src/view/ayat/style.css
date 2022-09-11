@@ -1,0 +1,11 @@
+.list-ayat {
+  min-height: 100vh;
+}
+
+.name-card {
+  display: flex;
+  align-items: center;
+  border-radius: 10px;
+  justify-content: center;
+  background-color: #1d3557 !important;
+}
